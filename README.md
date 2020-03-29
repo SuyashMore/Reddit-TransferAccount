@@ -1,6 +1,6 @@
-# RedditTF - Transfer Subreddits Between 2 Reddit Accounts
+# Reddit Subreddit Transfer
 
-## Dependencies
+Dependencies
 ```
 python -m pip install praw
 ```
